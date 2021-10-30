@@ -55,7 +55,6 @@ public class CurrencyConverter {
 		}		 
 		
 	
-	
 		else {
 		
 		// Notifies user that they've chosen GBP to USD conversion 	
@@ -78,7 +77,7 @@ public class CurrencyConverter {
 		// Displays money amount converted to GBP
 		System.out.print("Your amount $" + amount + " in GBP " + "is: "  + chosenFormat.format(Math.abs((USD))));
 					 
-		 }
-		}
+	      }
 	}
+}
 
