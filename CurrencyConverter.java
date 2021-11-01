@@ -1,5 +1,5 @@
-// Brendan Gamble
-// 5.18.20
+// Brendan G.	
+
 import java.text.DecimalFormat;
 import java.util.Currency;  
 
